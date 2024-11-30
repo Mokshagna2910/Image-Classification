@@ -1,4 +1,5 @@
 Image Classification with FastAPI and Streamlit
+
 This project demonstrates a simple but powerful image classification pipeline. It uses FastAPI for serving a pre-trained MobileNetV2 model and Streamlit for the frontend interface. This solution is designed to be accessible, easy to use, and flexible for anyone interested in integrating image classification into their applications.
 
 Project Overview
